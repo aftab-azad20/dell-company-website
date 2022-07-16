@@ -1,0 +1,116 @@
+.form-inputs{
+    position: relative;
+}
+.search-box-icon{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color: #adb5bd;
+}
+.contact span{
+    padding-right: 10px;
+}
+.contact i{
+    padding-right: 5px;
+    padding-left: 3px;
+    color: #a3a4a4;
+}
+.menubar-sticky{
+    background-color: #F9F9F9;
+
+    border-top: 1px solid #a3a4a4;
+}
+.menubar-sticky i{
+    color: #858282;
+    font-size: 40px;
+}
+.menubar-sticky h6{
+    padding-top: 10px;
+}
+.content-slide{
+    top:35%;
+    left: 1.5%;
+}
+.content-slide h4,h1,p{
+    color: white;
+    padding-bottom: 5px;
+}
+.content-slide p{
+    font-size: 20px;
+}
+.btn-shop-slider{
+
+   background-color: white;
+    color: black;
+   margin-right: 7px;
+
+}
+.three-pic-item .container-fluid,.pc-ads .container-fluid{
+    background-color: #f9f9f9;
+}
+.content-3pic{
+    background-color: black;
+    width: 582px;
+    min-height: 50px;
+    line-height: 50px;
+    text-align: left;
+    padding-left: 10px;
+    font-size: 17px;
+}
+.laptop-ads .container-fluid{
+    background-color: white;
+}
+.laptop-ads-content a{
+    text-decoration: none;
+    font-size: 22px;
+
+}
+.link-shop-laptop{
+    padding-right: 20px;
+    border-right: 1px solid black ;
+}
+.link-learn-laptop{
+    padding-left: 10px;
+}
+.pc-ads a{
+    border: none;
+}
+.laptop-ads-content{
+    width: 700px;
+}
+.dell-support i,p{
+color: #5672CB;
+    font-size: 30px;
+}
+.dell-support{
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.dell-support i{
+    margin-top: 10px;
+}
+.border-center{
+    border-right: 1px solid #858282 ;
+}
+footer{
+    background-color: #f0f0f0;
+}
+footer ul,li{
+    list-style-type: none;
+    padding: 0;
+    color: #636363;
+    padding-bottom: 10px;
+}
+
+.footer-link-ofoghi li{
+    display: inline-block;
+
+    font-weight: bold;
+    padding-right: 25px;
+}
+.copyright-links li{
+    display: inline-block;
+    padding-right: 25px;
+
+}
